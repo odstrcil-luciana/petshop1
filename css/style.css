@@ -105,8 +105,9 @@ a:hover {
 }
 
 .hero a:hover{
-    background-color: white ;
+    background-color: rgba(255, 255, 255, 0.936) ;
     color: black;
+    text-decoration: underline;
 }
 
 .productos h2{background-color: black;
